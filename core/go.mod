@@ -4,7 +4,7 @@ go 1.26.10
 
 require (
 	github.com/QuantumNous/astrlink/convo v0.0.0
-	github.com/QuantumNous/new-api/relaykit v0.3.5
+	github.com/QuantumNous/new-api/relaykit v0.3.6
 	github.com/andybalholm/brotli v1.2.6
 	github.com/deepteams/webp v1.2.8
 	github.com/expr-lang/expr v1.17.8
@@ -28,6 +28,7 @@ replace github.com/QuantumNous/astrlink/convo => ../convo
 require (
 	al.essio.dev/pkg/shellescape v1.5.1 // indirect
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
+	github.com/MoeForge/moego v0.1.0-alpha.1 // indirect
 	github.com/danieljoos/wincred v1.2.2 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect

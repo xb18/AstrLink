@@ -2,8 +2,10 @@ al.essio.dev/pkg/shellescape v1.5.1 h1:86HrALUujYS/h+GtqoB26SBEdkWfmMI6FubjXlsXy
 al.essio.dev/pkg/shellescape v1.5.1/go.mod h1:6sIqp7X2P6mThCQ7twERpZTuigpr6KbZWtls1U8I890=
 cloud.google.com/go/compute/metadata v0.3.0 h1:Tz+eQXMEqDIKRsmY3cHTL6FVaynIjX2QxYC4trgAKZc=
 cloud.google.com/go/compute/metadata v0.3.0/go.mod h1:zFmK7XCadkQkj6TtorcaGlCW1hT1fIilQDwofLpJ20k=
-github.com/QuantumNous/new-api/relaykit v0.3.5 h1:HV3IsGYtxzhr9tN+olbxBcbt6dT/IXr47FSZI+DideU=
-github.com/QuantumNous/new-api/relaykit v0.3.5/go.mod h1:WOCRYw5GlldWf/cqoxE5DSVFb+XsAf50AvkEd35XPUY=
+github.com/MoeForge/moego v0.1.0-alpha.1 h1:d+asBZu+2oKnBj1kzdvdANMStbIKw9BLCpknuWjiR28=
+github.com/MoeForge/moego v0.1.0-alpha.1/go.mod h1:SBNiQjCpWC3IEBMKFBOwOyhhQ3jywMrISqCwJTdr4aA=
+github.com/QuantumNous/new-api/relaykit v0.3.6 h1:x136RcoReZkwHTetuqeEsr53aQgJXv5a0iT6v8BBsWM=
+github.com/QuantumNous/new-api/relaykit v0.3.6/go.mod h1:MRN+oK1GdKyOSBvC+VIOJvX+faU1KJgHN/fh8RAVupI=
 github.com/andybalholm/brotli v1.2.6 h1:ftYnfj6usCp+UGV5kSJ3+chpMQgU+gJf/AxsUQ52REI=
 github.com/andybalholm/brotli v1.2.6/go.mod h1:rzTDkvFWvIrjDXZHkuS16NPggd91W3kUSvPlQ1pLaKY=
 github.com/danieljoos/wincred v1.2.2 h1:774zMFJrqaeYCK2W57BgAem/MLi6mtSE47MB6BOJ0i0=
